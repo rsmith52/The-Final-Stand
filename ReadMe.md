@@ -5,4 +5,5 @@ This repository is for the development of the RPG game being created by Team 100
 ### Group Members
 * Ray Smith
 * Alonso Del Rio
+* Ivan Pu
 * Next Member
