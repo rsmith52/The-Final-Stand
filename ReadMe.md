@@ -7,4 +7,5 @@ This repository is for the development of the RPG game being created by Team 100
 * Alonso Del Rio
 * Ivan Pu
 * Kim Inthavong 
+* Matt Derzay
 * Next Member
