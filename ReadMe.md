@@ -9,4 +9,4 @@ This repository is for the development of the RPG game being created by Team 100
 * Kim Inthavong 
 * Matt Derzay
 * Francesca Tyler
-* Next Member
+* Muhamad Firdaus Husaini
