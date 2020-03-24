@@ -1,5 +1,15 @@
 [
 null,
+<<<<<<< HEAD
+{"id":1,"expanded":false,"name":"World Map_1","order":1,"parentId":0,"scrollX":550.8,"scrollY":388.2},
+{"id":2,"expanded":false,"name":"The Hub","order":2,"parentId":0,"scrollX":898.8,"scrollY":777.5999999999999},
+{"id":3,"expanded":false,"name":"Latia","order":3,"parentId":0,"scrollX":730.8,"scrollY":744},
+{"id":4,"expanded":false,"name":"Town 2","order":4,"parentId":0,"scrollX":550.8,"scrollY":388.2},
+{"id":5,"expanded":false,"name":"Town 3","order":5,"parentId":0,"scrollX":459,"scrollY":312.5},
+{"id":6,"expanded":false,"name":"Town 4","order":6,"parentId":0,"scrollX":459,"scrollY":312.5},
+{"id":7,"expanded":false,"name":"Town 5","order":7,"parentId":0,"scrollX":459,"scrollY":312.5},
+{"id":8,"expanded":false,"name":"Water Wilderness 1","order":8,"parentId":0,"scrollX":754.8,"scrollY":980.4},
+=======
 {"id":1,"expanded":false,"name":"World Map_1","order":1,"parentId":0,"scrollX":699,"scrollY":433.5},
 {"id":2,"expanded":false,"name":"The Hub","order":2,"parentId":0,"scrollX":691,"scrollY":1014.5},
 {"id":3,"expanded":false,"name":"Latia","order":3,"parentId":0,"scrollX":691,"scrollY":1014.5},
@@ -8,6 +18,7 @@ null,
 {"id":6,"expanded":false,"name":"Town 4","order":6,"parentId":0,"scrollX":459,"scrollY":312.5},
 {"id":7,"expanded":false,"name":"Town 5","order":7,"parentId":0,"scrollX":459,"scrollY":312.5},
 {"id":8,"expanded":false,"name":"Wilderness 1","order":8,"parentId":0,"scrollX":699,"scrollY":433.5},
+>>>>>>> a9a14a06a1f42bee7a50b5c7e529b5a62ff25b5d
 {"id":9,"expanded":false,"name":"Wilderness 2","order":9,"parentId":0,"scrollX":459,"scrollY":312.5},
 {"id":10,"expanded":false,"name":"Wilderness 3","order":10,"parentId":0,"scrollX":459,"scrollY":312.5},
 {"id":11,"expanded":false,"name":"Wilderness 4","order":11,"parentId":0,"scrollX":459,"scrollY":312.5},
