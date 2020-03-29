@@ -2,7 +2,7 @@
 null,
 {"id":1,"expanded":true,"name":"World Map_1","order":1,"parentId":0,"scrollX":1198.2857142857142,"scrollY":743.1428571428571},
 {"id":2,"expanded":false,"name":"The Hub","order":2,"parentId":0,"scrollX":1198.2857142857142,"scrollY":743.1428571428571},
-{"id":3,"expanded":false,"name":"Latia","order":3,"parentId":0,"scrollX":1198.2857142857142,"scrollY":743.1428571428571},
+{"id":3,"expanded":false,"name":"Latia","order":3,"parentId":0,"scrollX":816,"scrollY":744},
 {"id":4,"expanded":false,"name":"Phosphor","order":4,"parentId":0,"scrollX":816,"scrollY":640},
 {"id":5,"expanded":false,"name":"Town 3","order":5,"parentId":0,"scrollX":868.5,"scrollY":586.5},
 {"id":6,"expanded":false,"name":"Town 4","order":6,"parentId":0,"scrollX":459,"scrollY":312.5},
