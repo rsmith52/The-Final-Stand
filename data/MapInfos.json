@@ -29,11 +29,13 @@ null,
 {"id":27,"expanded":false,"name":"Tree House","order":41,"parentId":26,"scrollX":868.5,"scrollY":586.5},
 {"id":28,"expanded":false,"name":"Fire/Nature cave","order":38,"parentId":12,"scrollX":832,"scrollY":640},
 {"id":29,"expanded":false,"name":"Hub shop","order":3,"parentId":2,"scrollX":868.5,"scrollY":586.5},
+
 {"id":30,"expanded":false,"name":"Nightglow shop","order":17,"parentId":5,"scrollX":868.5,"scrollY":586.5},
 {"id":31,"expanded":false,"name":"Latia shop","order":7,"parentId":3,"scrollX":868.5,"scrollY":586.5},
 {"id":32,"expanded":false,"name":"Torch shop","order":22,"parentId":6,"scrollX":868.5,"scrollY":586.5},
 {"id":33,"expanded":false,"name":"Amp shop","order":27,"parentId":7,"scrollX":868.5,"scrollY":586.5},
 {"id":34,"expanded":false,"name":"Phosphor shop","order":13,"parentId":4,"scrollX":868.5,"scrollY":586.5},
+
 {"id":35,"expanded":false,"name":"Latia(Destroyed)","order":8,"parentId":3,"scrollX":856.5,"scrollY":853.5},
 {"id":36,"expanded":false,"name":"Phospher(Destroyed)","order":14,"parentId":4,"scrollX":856.5,"scrollY":853.5},
 {"id":37,"expanded":false,"name":"Nightglow(Destroyed)","order":18,"parentId":5,"scrollX":856.5,"scrollY":853.5},
