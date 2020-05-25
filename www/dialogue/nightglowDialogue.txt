@@ -1,0 +1,110 @@
+Anders
+
+Hello, I'm Anders. Head of Nightglow.
+We've been expecting your arrival for
+a while now.
+
+Whenever we send a diplomat over to
+the Beacon, they get turned away.
+So, you must be here for something
+important, if not a threat.
+
+What brings you to Nightglow?
+
+An evil spirit...consuming all in
+its path...closing in on the Beacon?
+You want to evacuate my citizens and
+you want me to fight the Darkness?
+
+...It brought the monsters here?
+
+Very well. I will aid you for the
+good of my town, if you help us
+get rid of the monsters. I'll get
+my sword. 
+
+[yes]
+For Nightglow.
+
+[no]
+Alright.
+
+[2]
+Right. I'll make everyone evacuate.
+See you at the Beacon.
+
+--
+Lausanne
+
+Oh, don't mind my husband. He's
+a sweetheart underneath his cold
+kingly exterior! It's his way of
+ruling.
+
+For him, Nightglow is a town. For
+me, it's a family spanning all of
+Lumina. And do I see a new member 
+in front of my eyes?
+
+Maybe. You can earn my trust by
+helping our people get rid of
+these monsters.
+
+[yes]
+Of course I'll help! Good choice
+for the trust-building thing.
+
+[no]
+Hmm...
+
+[2]
+Let's do what's best for the people!
+In Nightglow and all of Lumina!
+
+--
+Venus
+
+Pleased to meet you. My codename is Venus.
+This isn't my actual appearance, but a
+disguise. By day I'm an ordinary citizen,
+by night I'm a world-renowned thief.
+
+Quick as wind, I've amassed quite the
+collection of rare and valuable goods.
+Breaking out of prison is easier than
+painting my nails.
+
+Never have I succesfully taken from the
+Beacon, however. A giant spotlight at
+the center of town doesn't make my life
+so easy over there.
+
+[yes]
+These monsters won't know what hit them!
+
+[no]
+I'll be seeing you again. You'll never
+see me again, though!
+
+[2]
+Sure, I'll go to the Beacon. Not unusual
+for me.
+
+--
+Aranfry
+
+Come stranger, let me read your palm, or
+your future inside my crystal ball. Do
+you like the smell? It's lavender!
+I like that you can taste it, too.
+
+My magic smoke can calm the harshest of
+tempers! Human, animal, spirit, it
+doesn't matter! 
+
+[yes]
+Ooooo, this journey would be good for
+business.
+
+[no]
+Carry on, stranger.
