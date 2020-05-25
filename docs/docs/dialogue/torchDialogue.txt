@@ -1,0 +1,94 @@
+Torka
+
+You look like Beak. Beaks not welcome
+here. Unless Beak wants to fight...
+
+Beak want to fight monsters?
+
+Hmm...
+
+That is fight. That work for Torka.
+
+[yes]
+Torka use Axe for weapon. Axe take care 
+of monsters first and Beak second.
+
+[no]
+Torka better at fight than Beak will ever
+be.
+
+[2]
+Torka expect monsters to take care of Beak.
+Torch monsters strongest monsters...
+
+Torka go to Beak town if Beak come back
+alive.
+
+--
+Torqa
+ 
+Yo what's up? You're talking to the
+greatest blacksmith in Lumina. Do
+you have any idea who I am? Not
+likely for you, Beak.
+
+Let me tell you something, pal.
+If you're gonna fight the monsters here,
+you'll need better equipment than that.
+Beaksmiths don't know what they're doing.
+
+[yes]
+Wise choice. Wouldn't do much good if
+the lone Beak in the world died on
+the job, right?
+
+[no]
+Don't say I didn't warn you, pal.
+
+[2]
+You got my brother to go along with you?
+Let him take care of the work. He's using 
+my stuff after all.
+
+I better see him again, pal. You? Ehhhhhh
+
+I'm not your pal, pal.
+--
+Torca (note the haiku)
+
+Fire is pretty.
+The world is much prettier
+when covered in flames.
+
+[yes]
+The sun and earth will soon become the same!
+
+[no]
+Searing, blazing, glowing, charring, beauty!
+
+[2]
+Ha ha ha ha ha!
+Ha ha ha hA HA HA HA!
+HA HA HA HA HA!
+
+--
+Aslono
+
+Well met, stranger! I don't get to say
+that often. You must be from The Beacon!
+
+I'm a wandering monk dedicated to serving
+all living creatures in Lumina. Many know 
+me for my good deeds.
+
+In a past life, though, I was serving these 
+hands as a boxing champion! I'll lay down a
+flurry of punches as a good deed if I need
+to!
+
+[yes]
+We got no time to lose. Let's train!
+
+[no]
+Well, I'll be on my way! I'll make sure 
+to let people know about your plight.
